@@ -4,7 +4,7 @@ function substituir(frutas, novaFruta) {
 }
 
 const frutas = ['maçã', 'banana', 'laranja', 'uva'];
-const novaFruta = 'abacaxi';
-const resultado = substituir(frutas, novaFruta);
+const novafruta = 'abacaxi';
+const resultado = substituir(frutas, novafruta);
 console.log(resultado);
 
